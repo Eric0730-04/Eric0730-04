@@ -11,13 +11,15 @@ I'm currently pursuing a Master of Management in Analytics at McGill University,
 
 ## Technical Skills
 
-**Programming:** Python, SQL, R, Stata, Excel
+**Programming:** Python, SQL, R, Stata, Excel, Git/GitHub
 
-**Analytics:** pandas, NumPy, Scikit-learn, Time-series Analysis  
+**Analytics:** pandas, NumPy, scikit-learn, A/B Testing, Regression Analysis, Time Series Analysis, Machine Learning, Optimization & Decision Modeling
 
-**Visualization:** Power BI, Tableau, Matplotlib, Looker 
+**Visualization & BI:** Power BI, Tableau, Matplotlib, Looker
 
-**Finance:** Bloomberg, Portfolio Analysis, Risk Modelling, Due Dilligence  
+**Data & Cloud Platforms:** Snowflake, AWS
+
+**Finance & Business Analytics:** Bloomberg, Portfolio Analysis, Risk Modeling, Financial Analysis, AML Analytics, Go-to-Market Analytics, Due Diligence
 
 ## Featured Projects
 [Fake News Detection](https://github.com/Eric0730-04/fake-news-detection-ml)
