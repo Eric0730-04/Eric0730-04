@@ -5,7 +5,6 @@ I'm currently pursuing a Master of Management in Analytics at McGill University,
 ## About Me
 
 - Interested in financial data analytics, risk analytics, fraud and AML
-- Experienced in data analytics, fintech compliance and investment due dilligence.
 - Had project experience with Excel, Python, SQL, Power BI and machine learning.
 - Based in Montreal, Canada, and open to opportunities in data and analytics
 
