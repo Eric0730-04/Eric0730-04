@@ -23,6 +23,8 @@ I'm currently pursuing a Master of Management in Analytics at McGill University,
 ## Featured Projects
 [Fake News Detection](https://github.com/Eric0730-04/fake-news-detection-ml)
 
+[Production Line Optimization](https://github.com/Eric0730-04/Production-Line-Optimization)
+
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/chang-sun-730841255/
