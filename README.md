@@ -15,9 +15,7 @@ I'm currently pursuing a Master of Management in Analytics at McGill University 
 
 **Analytics:** pandas, NumPy, scikit-learn, A/B Testing, Regression Analysis, Time Series Analysis, Machine Learning, Optimization & Decision Modeling
 
-**Visualization & BI:** Power BI, Tableau, Matplotlib, Looker
-
-**Data & Cloud Platforms:** Snowflake, AWS
+**Visualization & BI:** Power BI, Tableau, Matplotlib
 
 **Finance & Business Analytics:** Bloomberg, Portfolio Analysis, Risk Modeling, Financial Analysis, AML Analytics, Go-to-Market Analytics, Due Diligence
 
