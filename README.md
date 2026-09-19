@@ -4,20 +4,19 @@ I'm currently pursuing a Master of Management in Analytics at McGill University 
 
 ## About Me
 
-- Interested in analytics roles across financial services and consulting, with a focus on data-driven decision making, risk, strategy, and business performance
+- Interested in analytics roles across financial services, with a focus on data-driven decision making, risk, strategy, and business performance
 - Experienced in applying Python, SQL, Excel, Power BI, and machine learning to solve business and analytical problems
-- Strong foundation in economics, data science, financial analysis, optimization, and quantitative modeling
-- Based in Montreal, Canada, and open to opportunities in finance, consulting, and analytics
+- Strong foundation in economics, data science, financial analysis, and quantitative modeling
 
-## Technical Skills
+## Relevant Skills
 
-**Programming:** Python, SQL, R, Stata, Excel, Git/GitHub
+**Technical slills:** Excel (advanced modeling), SQL, Python (Pandas, NumPy, Matplotlib, scikit-learn)
 
-**Analytics:** pandas, NumPy, scikit-learn, A/B Testing, Regression Analysis, Time Series Analysis, Machine Learning, Optimization & Decision Modeling
+**Platform & BI:** Bloomberg Terminal, Power BI, Databricks, Git/Github, OpenRefine 
 
-**Visualization & BI:** Power BI, Tableau, Matplotlib
+**Quantitative Methods:** Regression Analysis, Clustering (PCA, K-means), Optimization
 
-**Finance & Business Analytics:** Bloomberg, Portfolio Analysis, Risk Modeling, Financial Analysis, AML Analytics, Go-to-Market Analytics, Due Diligence
+**Finance & Business Analytics:** Financial Modeling, Valuation (DCF, Comps), Financial Statement Analysis 
 
 ## Featured Projects
 [Fake News Detection](https://github.com/Eric0730-04/fake-news-detection-ml)
