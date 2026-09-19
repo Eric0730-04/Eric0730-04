@@ -16,7 +16,7 @@ I'm currently pursuing a Master of Management in Analytics at McGill University 
 
 **Quantitative Methods:** Regression Analysis, Clustering (PCA, K-means), Optimization
 
-**Finance & Business Analytics:** Financial Modeling, Valuation (DCF, Comps), Financial Statement Analysis 
+**Finance:** Financial Modeling, Valuation (DCF, Comps), Financial Statement Analysis 
 
 ## Featured Projects
 [Fake News Detection](https://github.com/Eric0730-04/fake-news-detection-ml)
