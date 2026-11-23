@@ -9,7 +9,7 @@ I build analytical tools that connect financial data and business questions to c
 A few fun facts about me:
 
 - 📈 I'm a retail investor.
-- 📷 I'm an amateur photographer.
+- 📷 I'm an amateur photographer — [Photo selection](https://reflective-produce-ddd.notion.site/Eric-s-Photo-Selection-Space-1f163511629c4b07ad1135ddd88369e0).
 - 🚴 I've completed a 100 km bike ride in 6 hours.
 - 🏓 I'm a National Level 2 table tennis athlete (China).
 
