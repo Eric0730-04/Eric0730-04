@@ -1,41 +1,75 @@
 # Hi, I'm Eric Sun 👋
 
-I'm pursuing a **Master of Management in Analytics at McGill University** and am a **CFA Level I candidate**, with a B.A. in **Economics and Data Science from UW–Madison**.
+**Financial Analytics · Applied Machine Learning · AI Agents**
 
-I apply data science, financial analysis, and AI to problems in financial services, risk, and business operations.
+I'm pursuing a **Master of Management in Analytics at McGill University**, with a B.A. in **Economics and Data Science from UW–Madison**. I'm also a **CFA Level I candidate**, based in Montréal.
+
+I build analytical tools that connect financial data and business questions to clear decisions—from checking investment ideas and interpreting corporate filings to investigating retail returns. My projects combine statistical analysis, machine learning, and AI agents with traceable evidence.
+
+[Portfolio](https://Eric0730-04.github.io) · [LinkedIn](https://www.linkedin.com/in/chang-sun-730841255/) · [Email](mailto:csun236@outlook.com)
+
+## Featured Datathon & Hackathon Projects
+
+### [SecondLook — PolyFinances Datathon 2026](https://github.com/Eric0730-04/polyfinances-datathon-2026)
+
+**AlphaForge AI · Team 10 · Investment Decision Support**
+
+A multi-agent prototype that gives self-directed investors a second look at an investment idea before they act.
+
+- Checks proposed portfolio changes against an investor's goals, time horizon, risk capacity, concentration limits, and ESG preferences across a **50-asset universe**.
+- Combines specialised agents on Amazon Bedrock with deterministic portfolio calculations, a rules engine, Guardrails, and S3 audit traces; includes a what-if simulator and explanations of what would change the verdict.
+- Matched the expected rule-based verdicts in **36/36 prototype evaluation runs** across 18 scenarios, each repeated twice. See the [evaluation and scope](https://github.com/Eric0730-04/polyfinances-datathon-2026/blob/main/docs/evaluation.md).
+
+**Built with:** Python · FastAPI · Amazon Bedrock · AWS Lambda · Amazon S3
+
+### 8-K Revision Agent — Asset Management Datathon
+
+**McGill–FIAM Asset Management Hackathon 2026 · AI Agent Developer · Private Team Repository**
+
+My contribution to a team project combining quantitative equity strategies with financial disclosure analysis.
+
+- Built a Claude-powered research assistant to help portfolio managers assess whether SEC 8-K filings are likely to trigger **EPS estimate or price-target revisions within five trading days**.
+- Integrated teammates' predictive models with Python tools for historical filing comparisons and analyst revision timelines, presented through a Streamlit interface.
+- Enforced historical data cutoffs and clearly distinguished model predictions, historical evidence, and the agent's interpretation of filing text.
+
+**Built with:** Python · Claude API · Streamlit · pandas · scikit-learn · LightGBM
+
+### [Return Detective — Return Agent Hackathon](https://github.com/Eric0730-04/Return_Agent_Hackathon)
+
+**ALDO / BSRM RetailGen AI Hackathon · Team Lead · 4th Place out of 42 Teams**
+
+A prototype that turns unusual retail return patterns into evidence-based investigations and proposed responses for human review.
+
+- Led a **five-person team** to deliver a working prototype in **42 hours** and presented a live demo to judges from AWS and ALDO Group.
+- Designed a three-agent workflow—**Triage, Investigator, and Response**—using Strands Agents and Amazon Bedrock to investigate potential product and operational issues.
+- Connected SQL screening, dated evidence, human approval gates, persistent case records, and historical follow-up checks in a Streamlit workspace.
+
+**Built with:** Python · SQL · Strands Agents · Amazon Bedrock · Streamlit · Athena · DynamoDB
+
+## Academic Projects
+
+Coursework projects in predictive modelling, classification, and operations research.
+
+| Project | Focus & Contribution | Tools |
+| --- | --- | --- |
+| [Predicting Online Purchase Intention](https://github.com/Eric0730-04/Predicting-Online-Purchase-Intention) | Developed the **KNN and Random Forest** models for a team study of purchase behaviour; contributed to an offline classification benchmark with cross-validation and feature-leakage analysis. | Python, scikit-learn, Jupyter |
+| [Fake News Detection](https://github.com/Eric0730-04/Fake_News_Detection_ML) | Analysed **4,000 news articles**, compared four classifiers, and selected a tuned RBF SVM; examined the precision–recall trade-off and limits of using non-text features. | Python, pandas, scikit-learn |
+| [Production Line Optimization](https://github.com/Eric0730-04/Production-Line-Optimization) | Modelled a truck manufacturer's product mix with linear programming; used shadow prices and sensitivity analysis to evaluate capacity bottlenecks and management constraints. | Excel Solver, Linear Programming |
 
 ## Technical Skills
 
-- **Programming & Analytics:** Python (Pandas, NumPy, Matplotlib, scikit-learn), SQL, Excel
-- **Machine Learning:** Regression, Ridge/Lasso, LightGBM, XGBoost, K-Means, PCA
-- **Methods:** A/B Testing, Optimization
-- **Data & Cloud:** Databricks, AWS, MySQL, Git/GitHub, Power BI
-
-## Selected Projects
-
-### Return Detective | ALDO RetailGen AI Hackathon
-**Team Lead · 4th Place / 42 Teams**
-
-- Architected a three-agent system—Triage, Investigator, and Response—using AWS Bedrock and Strands Agents to identify systemic product defects from return data.
-- Led a five-person team to deliver a working prototype in 42 hours.
-- Presented a live demo to judges from AWS and ALDO Group.
-
-
-### Other Projects
-
-- [Fake News Detection](https://github.com/Eric0730-04/fake-news-detection-ml)
-- [Production Line Optimization](https://github.com/Eric0730-04/Production-Line-Optimization)
+| Area | Tools & Methods |
+| --- | --- |
+| **Programming & Data** | Python, SQL, pandas, NumPy, MySQL, Excel |
+| **Machine Learning** | scikit-learn, LightGBM, XGBoost, Regression, Random Forest, KNN, SVM, Clustering, PCA |
+| **AI & Applications** | Amazon Bedrock, Strands Agents, Claude API, Tool Calling, Streamlit, FastAPI |
+| **Cloud & Analytics** | AWS Lambda, S3, Athena, DynamoDB, Databricks, Power BI, Git/GitHub |
+| **Analytical Methods** | Cross-Validation, Time-Series Evaluation, Portfolio Risk Analysis, A/B Testing, Linear Programming, Sensitivity Analysis |
 
 ## Education
 
 **McGill University** — Master of Management in Analytics  
-Current GPA: **4.00/4.00** · Recipient of a **$16,000 Entrance Scholarship**
+Current GPA: **4.00/4.00** · **$16,000 Entrance Scholarship**
 
 **University of Wisconsin–Madison** — B.A. in Economics and Data Science  
 GPA: **3.78/4.00** · Dean's List: Fall 2024 and Spring 2025
-
-## Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/chang-sun-730841255/)
-- [GitHub](https://github.com/Eric0730-04)
-- Email: csun236@outlook.com
