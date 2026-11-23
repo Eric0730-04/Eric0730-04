@@ -22,6 +22,12 @@ A multi-agent prototype that gives self-directed investors a second look at an i
 
 **Built with:** Python · FastAPI · Amazon Bedrock · AWS Lambda · Amazon S3
 
+**[Watch / download the full SecondLook demo — 4:52](https://github.com/Eric0730-04/polyfinances-datathon-2026/releases/download/demo-video/secondlook-demo.mp4)** · [Video guide](https://github.com/Eric0730-04/polyfinances-datathon-2026/blob/main/docs/demo_video.md)
+
+[![SecondLook in action: investment checks, follow-up questions, and investor comparison](https://raw.githubusercontent.com/Eric0730-04/polyfinances-datathon-2026/main/docs/media/secondlook-preview.gif)](https://github.com/Eric0730-04/polyfinances-datathon-2026/releases/download/demo-video/secondlook-demo.mp4)
+
+*Short silent preview; the complete MP4 includes audio.*
+
 ### [8-K Revision Agent — Asset Management Datathon](https://github.com/Eric0730-04/8k-revision-agent)
 
 **McGill–FIAM Asset Management Hackathon 2026 · AI Agent Developer**
