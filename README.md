@@ -6,6 +6,13 @@ I'm pursuing a **Master of Management in Analytics at McGill University**, with 
 
 I build analytical tools that connect financial data and business questions to clear decisions—from checking investment ideas and interpreting corporate filings to investigating retail returns. My projects combine statistical analysis, machine learning, and AI agents with traceable evidence.
 
+**A few fun facts about me:**
+
+- 📈 I'm a retail investor.
+- 📷 I'm an amateur photographer.
+- 🚴 I've completed a **100 km bike ride in 6 hours**.
+- 🏓 I'm a **National Level 2 table tennis athlete (China)**.
+
 [Portfolio](https://Eric0730-04.github.io) · [LinkedIn](https://www.linkedin.com/in/chang-sun-730841255/) · [Email](mailto:csun236@outlook.com)
 
 ## Featured Datathon & Hackathon Projects
