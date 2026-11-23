@@ -22,17 +22,23 @@ A multi-agent prototype that gives self-directed investors a second look at an i
 
 **Built with:** Python · FastAPI · Amazon Bedrock · AWS Lambda · Amazon S3
 
-### 8-K Revision Agent — Asset Management Datathon
+### [8-K Revision Agent — Asset Management Datathon](https://github.com/Eric0730-04/8k-revision-agent)
 
-**McGill–FIAM Asset Management Hackathon 2026 · AI Agent Developer · Private Team Repository**
+**McGill–FIAM Asset Management Hackathon 2026 · AI Agent Developer**
 
-My contribution to a team project combining quantitative equity strategies with financial disclosure analysis.
+My AI-agent contribution to a team project combining quantitative equity strategies with financial disclosure analysis, now available as a standalone public demo.
 
 - Built a Claude-powered research assistant to help portfolio managers assess whether SEC 8-K filings are likely to trigger **EPS estimate or price-target revisions within five trading days**.
 - Integrated teammates' predictive models with Python tools for historical filing comparisons and analyst revision timelines, presented through a Streamlit interface.
 - Enforced historical data cutoffs and clearly distinguished model predictions, historical evidence, and the agent's interpretation of filing text.
 
 **Built with:** Python · Claude API · Streamlit · pandas · scikit-learn · LightGBM
+
+**[Explore the public demo & source](https://github.com/Eric0730-04/8k-revision-agent)** · [How to use the agent](https://github.com/Eric0730-04/8k-revision-agent/blob/main/docs/WALKTHROUGH.md)
+
+[![8-K agent walkthrough: submit a filing, run the tools, and inspect the research note](https://raw.githubusercontent.com/Eric0730-04/8k-revision-agent/main/docs/assets/walkthrough.gif)](https://github.com/Eric0730-04/8k-revision-agent#watch-the-workflow)
+
+*The public edition includes a no-key offline walkthrough and optional live Claude tool use with synthetic data and illustrative scores. The team's licensed data and trained models remain private.*
 
 ### [Return Detective — Return Agent Hackathon](https://github.com/Eric0730-04/Return_Agent_Hackathon)
 
