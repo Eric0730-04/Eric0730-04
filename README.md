@@ -1,6 +1,6 @@
 # Hi, I'm Eric Sun 👋
 
-**Financial Analytics · Applied Machine Learning · AI Agents**
+**Data Analytics · Financial Analytics · Applied Machine Learning · AI Agents**
 
 I'm pursuing a **Master of Management in Analytics at McGill University**, with a B.A. in **Economics and Data Science from UW–Madison**. I'm also a **CFA Level I candidate**, based in Montréal.
 
