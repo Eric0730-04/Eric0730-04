@@ -76,6 +76,17 @@ Selected financial writing, from public-market equity research to private-compan
 
 [Browse the work samples on my portfolio](https://eric0730-04.github.io/#financial-due-diligence) · [Files and publication notes](https://github.com/Eric0730-04/Eric0730-04.github.io/tree/main/financial-due-diligence-work-samples)
 
+## Analytics Project Experience
+
+### Academic Analytics Consulting Projects with Propel Holdings
+
+**Risk Division Data Engineer / Modeler – Customer Lifetime Value (CLV)**
+
+Toronto, Canada · Sep 2026 – Present
+
+- Developing component models in Python on a customer-month panel built from Snowflake and MySQL, benchmarking LightGBM and XGBoost against logistic regression, and integrating the existing default score into a probabilistic decomposition of future behavior.
+- Partnering with finance team to define key profitability and credit utilization metrics, translating financial business logic into predictive modeling specifications.
+
 ## Academic Projects
 
 Coursework projects in predictive modelling, classification, and operations research.
