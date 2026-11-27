@@ -65,6 +65,17 @@ A prototype that turns unusual retail return patterns into evidence-based invest
 
 **Built with:** Python · SQL · Strands Agents · Amazon Bedrock · Streamlit · Athena · DynamoDB
 
+## Financial Due Diligence Work Samples
+
+Selected financial writing, from public-market equity research to private-company due diligence.
+
+| Work sample | Analysis | Read the report |
+| --- | --- | --- |
+| **UnitedHealth Group (UNH)** | Business model, industry positioning, financial analysis, scenario valuation, and investment risks. Research dated September 30, 2026. | [Equity research PDF](https://eric0730-04.github.io/financial-due-diligence-work-samples/unh-equity-research-eric-sun.pdf) |
+| **Sereniby** | Product differentiation, market positioning, channel economics, and the investment case. June 29, 2025; public edition with sensitive company and personal information redacted. | [Redacted diligence PDF](https://eric0730-04.github.io/financial-due-diligence-work-samples/sereniby-due-diligence-eric-sun-redacted.pdf) |
+
+[Browse the work samples on my portfolio](https://eric0730-04.github.io/#financial-due-diligence) · [Files and publication notes](https://github.com/Eric0730-04/Eric0730-04.github.io/tree/main/financial-due-diligence-work-samples)
+
 ## Academic Projects
 
 Coursework projects in predictive modelling, classification, and operations research.
